@@ -1,4 +1,4 @@
-## What is Functional Programming
+## What is Functional Programming ?
 
 There are 2 types of languages basicly. 
 
@@ -6,6 +6,7 @@ There are 2 types of languages basicly.
      - Based on how to solve a problem
      - Procedural
      - Object Oriented 
+     
 #### Functional Languages 
      - Declarative
      - Based on What to Solve
@@ -16,7 +17,7 @@ In programming we need to avoid from side effects. So in functional programming 
 
 There are functional languages using object oriented features like F#, Ocaml, Scala. Also there are imperative languages using functional features like Python, Ruby, C#, Java. 
 
-## Color Manupulation With Haskell 
+## Color Manipulation With Haskell 
    - [PROJECT](project.pdf)
    - [CODE](solutions.hs)
    - [CODE EXPLANATION](solutionsReport.pdf)
